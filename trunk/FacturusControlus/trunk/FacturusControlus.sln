@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturus.BE", "Facturus.BE\Facturus.BE.csproj", "{C67815A8-46B0-45CF-B326-669CAF15E3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturus.DAO", "Facturus.DAO\Facturus.DAO.csproj", "{115FF917-7E3F-4CCF-923C-8AD61A3DF8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturus.BL", "Facturus.BL\Facturus.BL.csproj", "{C4541E5F-07C8-48EF-9F9E-6A6F31FD11F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturus.Web", "Facturus.Web\Facturus.Web.csproj", "{698C4115-22BB-47FA-803C-2696ADC56444}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67815A8-46B0-45CF-B326-669CAF15E3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67815A8-46B0-45CF-B326-669CAF15E3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67815A8-46B0-45CF-B326-669CAF15E3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67815A8-46B0-45CF-B326-669CAF15E3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115FF917-7E3F-4CCF-923C-8AD61A3DF8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115FF917-7E3F-4CCF-923C-8AD61A3DF8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115FF917-7E3F-4CCF-923C-8AD61A3DF8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115FF917-7E3F-4CCF-923C-8AD61A3DF8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4541E5F-07C8-48EF-9F9E-6A6F31FD11F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4541E5F-07C8-48EF-9F9E-6A6F31FD11F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4541E5F-07C8-48EF-9F9E-6A6F31FD11F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4541E5F-07C8-48EF-9F9E-6A6F31FD11F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698C4115-22BB-47FA-803C-2696ADC56444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698C4115-22BB-47FA-803C-2696ADC56444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698C4115-22BB-47FA-803C-2696ADC56444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698C4115-22BB-47FA-803C-2696ADC56444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
